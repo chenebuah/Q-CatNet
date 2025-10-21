@@ -3,7 +3,7 @@
 # Digital Technologies Research Centre, National Research Council of Canada, 1200 Montréal Road, Ottawa, ON, K1A 0R6 Canada
 # * email: echen013@uottawa.ca
 
-# Saved Pytorch Models can be downloaded from the "Saved Models Folder"
+# Saved Pytorch Models can be downloaded from the "Saved Models Folder".
 
 #! pip install torch_geometric
 import torch.nn as nn
